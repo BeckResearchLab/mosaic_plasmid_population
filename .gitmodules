@@ -1,0 +1,3 @@
+[submodule "plasmid_circos_plot"]
+	path = plasmid_circos_plot
+	url = https://github.com/BeckResearchLab/plasmid_circos_plot
